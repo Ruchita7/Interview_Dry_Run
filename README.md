@@ -1,10 +1,7 @@
 ####**Interviewing Dry-Run Overview**
 
-You will complete a “dry-run” interview that simulates an in-person interview. The "dry-run" interview will consist of a series of questions that should be answered within a 1 hour time limit. For authenticity and maximum effectiveness, stay within the time limit and do not return to questions to improve your answers. The questions will be both behavioral and technical and will require you to write textual and code-based answers. You may add images where applicable to simulate any "whiteboard" drawings.
+This is a “dry-run” interview that simulates an in-person interview. The "dry-run" interview will consist of a series of questions that should be answered within a 1 hour time limit. One may add images where applicable to simulate any "whiteboard" drawings.
 
-####**Why This Interviewing Dry-Run?**
-
-The best way to prepare for an interview is with deliberate and purposeful practice. Completing this project will allow you to simulate an interview environment prior to an actual interview. Also, upon submission, you will receive personalized feedback for how to improve your answers and be most effective while interviewing.
 
 ####**Questions (6 total)**
 
